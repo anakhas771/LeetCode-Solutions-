@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0066-plus-one) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

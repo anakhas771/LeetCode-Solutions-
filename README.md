@@ -1,4 +1,68 @@
+## LeetCode DSA Solutions – Python
 
+This repository contains Data Structures and Algorithms (DSA) solutions to LeetCode problems implemented using Python.
+
+## 🔍 Purpose
+
+- Practice DSA for coding interviews
+
+- Build a placement-ready GitHub profile
+
+- Demonstrate problem-solving and Python proficiency
+
+- Apply standard interview patterns used in FAANG-style questions
+
+## 🧠 Skills Demonstrated 
+
+- Python Programming
+
+- Data Structures & Algorithms
+
+- Problem Solving
+
+- Time & Space Complexity Analysis
+
+- LeetCode Problem Solving
+
+- Coding Interviews
+
+- Algorithm Optimization
+
+## 📚 Topics Covered
+
+- Arrays
+
+- Strings
+
+- HashMap & HashSet
+
+- Two Pointers Technique
+
+- Sliding Window
+
+- Recursion
+
+- Linked Lists
+
+- Stack & Queue
+
+- Binary Search
+
+- Trees (Basics)
+
+- Dynamic Programming (Beginner to Intermediate)
+
+## 🛠 Technology Used
+
+- Python 3
+
+- LeetCode platform
+
+## 📈 Status
+
+Actively maintained and updated with new problems and improved solutions.
+
+## ⭐ If this repository helped you, consider starring it.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -65,3 +129,4 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
+

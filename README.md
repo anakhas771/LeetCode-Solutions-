@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0066-plus-one) |
 ## Database
 |  |

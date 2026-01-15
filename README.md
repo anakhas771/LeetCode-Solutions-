@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |

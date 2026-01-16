@@ -77,6 +77,7 @@ Actively maintained and updated with new problems and improved solutions.
 | [0066-plus-one](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Actively maintained and updated with new problems and improved solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0001-two-sum) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,5 +137,9 @@ Actively maintained and updated with new problems and improved solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
 

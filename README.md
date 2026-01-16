@@ -77,6 +77,7 @@ Actively maintained and updated with new problems and improved solutions.
 | [0066-plus-one](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/1929-concatenation-of-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |

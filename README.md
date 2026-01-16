@@ -86,6 +86,7 @@ Actively maintained and updated with new problems and improved solutions.
 | [0058-length-of-last-word](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Actively maintained and updated with new problems and improved solutions.
 | [0007-reverse-integer](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0412-fizz-buzz) |
 ## Database
 |  |
 | ------- |
@@ -141,5 +143,9 @@ Actively maintained and updated with new problems and improved solutions.
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
 

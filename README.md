@@ -76,6 +76,7 @@ Actively maintained and updated with new problems and improved solutions.
 | [0035-search-insert-position](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Actively maintained and updated with new problems and improved solutions.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |

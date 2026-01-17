@@ -78,6 +78,7 @@ Actively maintained and updated with new problems and improved solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/1929-concatenation-of-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -98,6 +99,7 @@ Actively maintained and updated with new problems and improved solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0645-set-mismatch) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Two Pointers
 |  |
@@ -155,5 +157,13 @@ Actively maintained and updated with new problems and improved solutions.
 | ------- |
 | [0412-fizz-buzz](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
 

@@ -115,12 +115,14 @@ Actively maintained and updated with new problems and improved solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/anakhas771/LeetCode-Solutions-/tree/master/0412-fizz-buzz) |
 ## Database
 |  |
